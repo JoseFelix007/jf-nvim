@@ -1,0 +1,5 @@
+
+# GIT IGNORE
+/.vscode/
+/plugin/packer_compiled.lua
+
